@@ -1,53 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity_exploitation\\3D\\bowu\\",
+  "WorkspaceRootPath": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\interactions\\actionbasedcontrollerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\actionbasedcontrollerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\wenbometaverse\\src\\bowu\\assets\\otherasset\\vruip\\scripts\\tools\\drawing\\pen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\otherasset\\vruip\\scripts\\tools\\drawing\\pen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\core\\culturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\culturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\wenbometaverse\\src\\bowu\\assets\\otherasset\\vruip\\scripts\\ui\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\otherasset\\vruip\\scripts\\ui\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\bowu\\assets\\scripts\\function\\aifunction\\aifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\aifunction\\aifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\wenbometaverse\\src\\bowu\\assets\\otherasset\\vruip\\scripts\\ui\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\otherasset\\vruip\\scripts\\ui\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\aibase\\chatglm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aibase\\chatglm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\wenbometaverse\\src\\bowu\\assets\\otherasset\\vruip\\scripts\\ui\\colorpickercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\otherasset\\vruip\\scripts\\ui\\colorpickercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\aifunction\\npcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\aifunction\\npcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|d:\\unity_exploitation\\3d\\wenbometaverse\\src\\bowu\\assets\\avprovideo\\demos\\scripts\\spheredemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\avprovideo\\demos\\scripts\\spheredemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\interactions\\interactive effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\interactive effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\objfunc\\culturalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\objfunc\\culturalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\interactions\\vrbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\vrbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\caminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\text\\splittmpwithoriginalmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\text\\splittmpwithoriginalmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\bowu\\assets\\scripts\\function\\trappingsini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\trappingsini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\trappingsini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_exploitation\\3D\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\interactions\\actionbasedcontrollerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\actionbasedcontrollerfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\core\\culturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\culturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\aifunction\\aifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\aifunction\\aifunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\aibase\\chatglm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aibase\\chatglm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\aifunction\\npcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\aifunction\\npcrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\interactions\\interactive effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\interactive effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\objfunc\\culturalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\objfunc\\culturalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\interactions\\vrbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\interactions\\vrbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\caminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\assets\\scripts\\function\\text\\splittmpwithoriginalmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E269487D-AA82-781D-036D-73BD7B931ED8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\function\\text\\splittmpwithoriginalmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +78,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ChatGLM.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\AIBase\\ChatGLM.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\AIBase\\ChatGLM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AIBase\\ChatGLM.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\AIBase\\ChatGLM.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\AIBase\\ChatGLM.cs",
               "RelativeToolTip": "Assets\\Scripts\\AIBase\\ChatGLM.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAADwv0kAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,16 +95,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AIFunction.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\AIFunction\\AIFunction.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAowLwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T09:35:42.818Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\HUD.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\HUD.cs",
+              "RelativeToolTip": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\HUD.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:40:49.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pen.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\Tools\\Drawing\\Pen.cs",
+              "RelativeDocumentMoniker": "Assets\\OtherAsset\\VRUIP\\Scripts\\Tools\\Drawing\\Pen.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\Tools\\Drawing\\Pen.cs",
+              "RelativeToolTip": "Assets\\OtherAsset\\VRUIP\\Scripts\\Tools\\Drawing\\Pen.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAlwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:40:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\GalleryController.cs",
+              "RelativeDocumentMoniker": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\GalleryController.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\GalleryController.cs",
+              "RelativeToolTip": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\GalleryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:40:41.496Z",
               "EditorCaption": ""
             },
             {
@@ -97,11 +155,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorPickerController.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\ColorPickerController.cs",
+              "RelativeDocumentMoniker": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\ColorPickerController.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\ColorPickerController.cs",
+              "RelativeToolTip": "Assets\\OtherAsset\\VRUIP\\Scripts\\UI\\ColorPickerController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwK0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:40:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "SphereDemo.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\AVProVideo\\Demos\\Scripts\\SphereDemo.cs",
+              "RelativeDocumentMoniker": "Assets\\AVProVideo\\Demos\\Scripts\\SphereDemo.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\AVProVideo\\Demos\\Scripts\\SphereDemo.cs",
+              "RelativeToolTip": "Assets\\AVProVideo\\Demos\\Scripts\\SphereDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABAwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:08:35.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NpcRole.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\AIFunction\\NpcRole.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAA3wKwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "CulturalInteraction.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\ObjFunc\\CulturalInteraction.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "VRButton.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\Interactions\\VRButton.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Interactive effects.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\Interactions\\Interactive effects.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwBAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,24 +229,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ActionBasedControllerFeedback.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\Interactions\\ActionBasedControllerFeedback.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAUwDMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:11:07.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T13:11:07.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "TextMeshPro.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TextMeshPro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,36 +253,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CultureData.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Core\\CultureData.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Core\\CultureData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\CultureData.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Core\\CultureData.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Core\\CultureData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Core\\CultureData.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAIwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T01:06:29.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T01:06:29.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "TrappingsIni.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\TrappingsIni.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\TrappingsIni.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\TrappingsIni.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\TrappingsIni.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\TrappingsIni.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\TrappingsIni.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwC4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T07:44:03.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "SplitTMPWithOriginalMaterial.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
               "RelativeToolTip": "Assets\\Scripts\\Function\\Text\\SplitTMPWithOriginalMaterial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +289,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "CamInteractive.cs",
-              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\CamInteractive.cs",
+              "DocumentMoniker": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\CamInteractive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CamInteractive.cs",
-              "ToolTip": "D:\\Unity_exploitation\\3D\\bowu\\Assets\\Scripts\\CamInteractive.cs",
+              "ToolTip": "D:\\Unity_exploitation\\3D\\WenboMetaverse\\Src\\bowu\\Assets\\Scripts\\CamInteractive.cs",
               "RelativeToolTip": "Assets\\Scripts\\CamInteractive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

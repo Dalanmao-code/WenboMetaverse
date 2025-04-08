@@ -62,13 +62,23 @@
   <ItemGroup>
     <Compile Include="Assets\AVProVideo\Scripts\Editor\DisplayUGUIEditor.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenPreviewManager.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\BaseEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\EditorUtil.cs" />
     <Compile Include="Assets\Demigiant\DOTweenPro\Editor\DOTweenAnimationInspector.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\UpdateStereoMaterialEditor.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\MediaPlayerEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\KeyboardEditor.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\PostProcessBuild.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\VRUIPManagerEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\VRUIPMenu.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\ApplyToMeshEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\ButtonControllerEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\CollectionEditor.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\SupportWindow.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\GrabbableEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\TextControllerEditor.cs" />
     <Compile Include="Assets\AVProVideo\Scripts\Editor\AudioOutputEditor.cs" />
+    <Compile Include="Assets\OtherAsset\VRUIP\Scripts\Other\Editor\IconControllerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Demigiant\DemiLib\Core\Editor\DemiEditor.dll" />
